@@ -15,4 +15,4 @@ function Gallery(props){
     )
 }
 
-export default Gallery,
+export default Gallery
